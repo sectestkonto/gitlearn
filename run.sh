@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "Tekst dla mastera"
+echo "Tekst dla klienta"
