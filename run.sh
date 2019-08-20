@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "hack me" #	Wyświetlanie tekstu w konsoli
+echo "slucham Popka" #	Wyświetlanie tekstu w konsoli
